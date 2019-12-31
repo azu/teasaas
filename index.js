@@ -1,1 +1,0 @@
-import t from "./index.2.js"
